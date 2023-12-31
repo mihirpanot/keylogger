@@ -1,0 +1,5 @@
+Public IP Address: 103.81.94.104Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Bhavdip_Rathwa
+Private IP Address: 192.168.1.35
